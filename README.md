@@ -1,7 +1,7 @@
 ![Python minimum version](https://img.shields.io/badge/Python-3.8%2B-brightgreen)
 
 # 🔎 skypehunt
-Hi! I've made this neat OSINT tool made to allow anyone to easily find information from a skype user, with just a username, phone number or email.
+I've made this neat OSINT tool to allow anyone to easily find information from a skype user, with just a username, phone number or email.
 
 A lot of people seem to think that no one uses skype, but you'll be surprised to see how many people actually use it!
 
