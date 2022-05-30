@@ -2,12 +2,9 @@
 
 ![Python minimum version](https://img.shields.io/badge/Python-3.8%2B-brightgreen)
 
-# 🔎 SkypeSearch
-SkypeSearch is an async OSINT tool made to allow researchers to easily find information from a skype user, with just a username, phone number or email.
-
-<p align="left">
-  <img src="https://i.imgur.com/Vv7FIha.png">
-</p>
+# 🔎 skypehunt
+Hi! I've made this neat OSINT tool made to allow researchers to easily find information from a skype user, with just a username, phone number or email.
+A lot of people seem to think that no one uses skype, but you'll be surprised to see how many people actually use it!
 
 ## What can I find?
 - Skype ID
@@ -26,7 +23,7 @@ This program requires [Python 3.8+](https://www.python.org/downloads/) to be ins
 ### 2. Cloning
 Open your terminal, and execute the following commands:
 ```bash
-git clone https://github.com/8C/SkypeSearch
+git clone https://github.com/8C/skypehunt
 cd SkypeSearch
 ```
 ### 3. Install requirements
@@ -65,7 +62,7 @@ After pasting the Skype Auth token, save the file
 ### 7. Run the program
 Execute the following command in your terminal:
 ```bash
-python3 skypesearch.py exampleusername123
+python3 skypehunt.py exampleusername123
 ```
 
 
