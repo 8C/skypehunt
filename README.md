@@ -1,9 +1,8 @@
-![screenshot](https://i.imgur.com/YI1YsS1.png)
-
 ![Python minimum version](https://img.shields.io/badge/Python-3.8%2B-brightgreen)
 
 # 🔎 skypehunt
-Hi! I've made this neat OSINT tool made to allow researchers to easily find information from a skype user, with just a username, phone number or email.
+Hi! I've made this neat OSINT tool made to allow anyone to easily find information from a skype user, with just a username, phone number or email.
+
 A lot of people seem to think that no one uses skype, but you'll be surprised to see how many people actually use it!
 
 ## What can I find?
@@ -64,8 +63,3 @@ Execute the following command in your terminal:
 ```bash
 python3 skypehunt.py exampleusername123
 ```
-
-
-
-## Credits
-This tool is inspired by [White Hat Inspector's research](https://whitehatinspector.blogspot.com/2021/03/skype-hidden-osint-goldmine.html) on Skype IDs
