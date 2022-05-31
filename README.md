@@ -3,7 +3,7 @@
 # 🔎 skypehunt
 I've made this neat OSINT tool to allow anyone to easily find information from a skype user, with just a username, phone number or email.
 
-A lot of people seem to think that no one uses skype, but you'll be surprised to see how many people actually use it!
+A lot of people seem to think that no one uses skype, which is true for the most part, but you'd be surprised to see how many people still have a skype account from several years ago!
 
 ## What can I find?
 - Skype ID
