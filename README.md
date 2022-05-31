@@ -23,7 +23,7 @@ This program requires [Python 3.8+](https://www.python.org/downloads/) to be ins
 Open your terminal, and execute the following commands:
 ```bash
 git clone https://github.com/8C/skypehunt
-cd SkypeSearch
+cd skypehunt
 ```
 ### 3. Install requirements
 Execute the following command in your terminal:
